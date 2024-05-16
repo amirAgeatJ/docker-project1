@@ -1,6 +1,5 @@
-# FINAL PROJECT - DOCKER COURSE
-## DESCRIPTION
-This is the final project for the Docker course. Random ipsum text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam.
+# Docker projet
+
 ### CONTRIBUTORS
 - [Lucas RATIARAY]
 - [Amir AGEAT JAMLY]
@@ -12,7 +11,7 @@ This is the final project for the Docker course. Random ipsum text. Lorem ipsum 
 1. Clone the repository
 2. Run
 ```bash
-docker-compose up -d
+docker-compose up 
 ```
 3. Go to [localhost:8081](http://localhost:8081) for the first server.
 4. Go to [localhost:8082](http://localhost:8082) for the second server.
@@ -21,7 +20,7 @@ docker-compose up -d
 ### COMMANDS
 - Start the containers in background
 ```bash
-docker-compose up -d
+docker-compose up 
 ```
 - Stop the containers
 ```bash
