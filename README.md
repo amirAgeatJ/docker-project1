@@ -3,6 +3,7 @@
 ### CONTRIBUTORS
 - [Lucas RATIARAY]
 - [Amir AGEAT JAMLY]
+- [NGUEKOUMOU Georges Jonathan]
 ## INSTALLATION
 ### REQUIREMENTS
 - Docker
